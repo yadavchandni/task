@@ -1,0 +1,22 @@
+.Condidatename {
+  font-style: italic;
+  text-align: center;
+}
+
+.home-title {
+  padding-left: 20px;
+}
+
+nav,
+.profile {
+  -webkit-filter: none;
+  filter: none;
+  text-align: right;
+  margin-top: 17px;
+}
+nav a {
+  display: inline-block;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.2rem;
+}

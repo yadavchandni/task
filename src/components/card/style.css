@@ -1,0 +1,36 @@
+.headerTitle {
+  display: inline;
+}
+.image-logo {
+  width: 50%;
+  height: 50%;
+  padding-left: 50px;
+  margin-top: -24px;
+  padding-bottom: 5px;
+}
+.TitleName {
+  padding-left: 35px;
+  padding-bottom: 20px;
+}
+.title-button {
+  padding: 10%;
+  background-color: green;
+  width: 70%;
+}
+.time-duration {
+  color: red;
+  padding-top: 2%;
+  text-align: left;
+  padding-left: 20px;
+}
+.card-section {
+  background: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px 5px rgba(0, 0, 0, 0.1);
+  padding-top: 70px;
+  overflow: hidden;
+  transition: all 0.2s;
+}
+.header-section {
+  margin-bottom: 0px;
+}
