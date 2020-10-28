@@ -51,7 +51,7 @@ export default class Card extends Component {
                   <Grid container spacing={3}>
                     <Grid item xs>
                       <img src={Logo} className="image-logo" alt="logoimage" />
-                      <div className="card__footer">
+                      <div className="cardTitle">
                         <div className="TitleName">
                           <span className="TitleName ">
                             {item.company.title}
